@@ -1,0 +1,32 @@
+
+.mainbox2{
+    display: block;
+}
+
+.Welcome-to-Nature {
+  width: 18rem;
+  height: 3rem;
+  margin: auto;
+  font-family: LibreBaskerville;
+  font-size: 2.25rem;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: center;
+  }
+  .Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua1 {
+    width: 35.5rem;
+    height: 2.625rem;
+    margin: auto;
+    font-family: LibreBaskerville;
+    font-size: 1rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.31;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--dark-grey-blue);
+  }

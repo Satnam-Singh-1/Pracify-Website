@@ -1,0 +1,42 @@
+
+.maindivSub{
+
+}
+.form1{
+        
+    margin: 108px auto;
+    border-radius: 30px;
+    background-color: rgba(255, 255, 255, 0.11);
+    width: 573px;
+}
+.email{
+    width: 25.125rem;
+    height: 4.313rem;
+    border-radius: 30px;
+    border: none;
+    font-family: LibreBaskerville;
+    font-size: 1.125rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    /* background-color: rgba(255, 255, 255, 0.11); */
+ 
+}
+
+.Subscribe{
+    width: 10.438rem;
+    height: 4.313rem;
+    border-radius: 30px;
+    background-color: #00dbd0;
+    font-family: LibreBaskerville;
+    font-size: 1.125rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+}

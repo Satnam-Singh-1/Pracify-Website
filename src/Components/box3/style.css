@@ -1,0 +1,34 @@
+.Rectangle-46 {
+  height: 25rem;
+  margin: auto;
+  width: auto;
+    background-color: #fbfefe;
+  }
+  .Proudly-presented-by {
+    width: 19.188rem;
+    height: 3rem;
+    margin: 0 auto;
+    font-family: LibreBaskerville;
+    font-size: 2.25rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #374b5c;
+  }
+  .Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua2 {
+    width: 28.5rem;
+    height: 2.625rem;
+    margin: auto;
+    font-family: LibreBaskerville;
+    font-size: 1rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.31;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(#374b5c);
+  }

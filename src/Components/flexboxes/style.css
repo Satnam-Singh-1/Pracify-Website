@@ -1,0 +1,39 @@
+.maindiv{
+    display: flex;
+}
+
+
+.Rectangle-1 {
+  width: 11.043rem;
+  height: 17.495rem;
+  margin: 8.13rem 2.688rem 7.125rem 5.144rem;
+  padding: 2.274rem 2.231rem 2.313rem 2.188rem;
+  border-radius: 20px;
+  border: solid 0.5px #374b5c;
+  }
+  .Rectangle-1:hover {
+    width: 11.043rem;
+    height: 17.495rem;
+    margin: 8.13rem 2.688rem 7.125rem 5.144rem;
+    padding: 2.274rem 2.231rem 2.313rem 2.188rem;
+    border-radius: 20px;
+    border: solid 0.5px #ffffff;
+    background-color: #00dbd0;
+  }
+
+
+  .Organic{
+    width: 8.125rem;
+    height: 2.5rem;
+    margin: 0 0.966rem 0 0;
+    font-family: LibreBaskerville;
+    font-size: 1.125rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: #374b5c;
+  }
+ 

@@ -1,0 +1,55 @@
+.Healthy-life-with {
+    width: 16rem;
+    height: 3rem;
+    margin: 9.933rem 19.25rem 6.5rem 0;
+    font-family: LibreBaskerville;
+    font-size: 2.25rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: var(--dark-grey-blue);
+  }
+  .Nature-Organic {
+    width: 25.25rem;
+    height: 4.625rem;
+    margin: 12.621rem 10rem 2.188rem 0;
+    font-family: LibreBaskerville;
+    font-size: 3.5rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.32;
+    letter-spacing: normal;
+    text-align: left;
+    color: var(--dark-grey-blue);
+  }
+  .Vegetables-are-the-edible-parts-of-a-plant-that-is-used-in-cooking-or-can-be-eaten-now {
+    width: 24.313rem;
+    height: 3.375rem;
+    margin: 2.188rem 10.938rem 2.188rem 0;
+    font-family: LibreBaskerville;
+    font-size: 1.25rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.35;
+    letter-spacing: normal;
+    text-align: left;
+    color: var(--dark-grey-blue);
+  }
+  .Explore-Now {
+    width: 6.75rem;
+    height: 1.5rem;
+    font-family: LibreBaskerville;
+    font-size: 1.125rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+   } 

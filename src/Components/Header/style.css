@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+
+.mainheader
+{
+    width: auto;
+    height: auto;
+    margin-top: 0;
+    display: block;
+    background-image: linear-gradient(#f0f8ff,#f1fefe);
+}
+.navbar1{
+  display: flex;
+}
+.organicdiv {
+  width: 9.25rem;
+    height: 3.5rem;
+    margin: -2.966rem -7.437rem -2.937rem 6.594rem;
+    padding: 5rem 10rem;
+    font-family: LibreBaskerville;
+    font-size: 2.625rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #374b5c;
+  }
+
+.navbar
+{
+    width: auto;
+    height: 1rem;
+    margin: 2.25rem 2rem;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    list-style-type:none;
+    /* border: #374b5c 2px solid; */
+}
+
+.home
+{
+  width: 2.688rem;
+  height: 1.313rem;
+  margin: 1.096rem 3.063rem 0.438rem 10rem;
+  font-family: LibreBaskerville;
+  font-size: 1rem;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.31;
+  letter-spacing: normal;
+  text-align: left;
+  color: #374b5c;
+}
+
+.products
+{
+  width: 3.875rem;
+  height: 1.313rem;
+  margin: 1.096rem 3.375rem 0.438rem 2.791rem;
+  font-family: LibreBaskerville;
+  font-size: 1rem;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.31;
+  letter-spacing: normal;
+  text-align: left;
+  color: #374b5c;
+  }
+
+.blog
+{
+  
+    width: 2rem;
+    height: 1.313rem;
+    margin: 1.096rem 3.313rem 0.438rem 3.375rem;
+    font-family: LibreBaskerville;
+    font-size: 1rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.31;
+    letter-spacing: normal;
+    text-align: left;
+    color: #374b5c;
+}
+
+.aboutus
+{
+  width: 4.125rem;
+  height: 1.313rem;
+  margin: 1.096rem 2.875rem 0.438rem 3.313rem;
+  font-family: LibreBaskerville;
+  font-size: 1rem;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.31;
+  letter-spacing: normal;
+  text-align: left;
+  color: #374b5c;
+}
+.contact{
+  display: block;
+  width: 8.813rem;
+  height: 2.875rem;
+  margin: 0.346rem 0 11.375rem 2.875rem;
+  padding: 0.75rem 3rem 0.813rem 2.375rem;
+  border-radius: 10px;
+  border: solid 2px #00dbd0
+
+}
+.Healthy-life-with {
+  width: 16rem;
+    height: 3rem;
+    margin: 11.063rem 19.25rem 0rem 8.688rem;
+    font-size: 2.25rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #374b5c;
+}
+.Nature-Organic {
+  width: 25.25rem;
+    height: 4.625rem;
+    margin: 0rem 10rem 2.188rem 8.688rem;
+    font-family: LibreBaskerville;
+    font-size: 3.5rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.32;
+    letter-spacing: normal;
+    text-align: left;
+    color: #374b5c;
+}
+.Vegetables-are-the-edible-parts-of-a-plant-that-is-used-in-cooking-or-can-be-eaten-now {
+  display: block;
+  width: 24.313rem;
+  height: 3.375rem;
+  padding: 0;
+  margin: 2.188rem 10.938rem 2.188rem 8.688rem;
+  margin-right: 0;
+  font-family: LibreBaskerville;
+  font-size: 1.25rem;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.35;
+  letter-spacing: normal;
+  text-align: left;
+  color: #374b5c;
+
+}
+.Explore-Now {
+    width: 13.75rem;
+    height: 3.375rem;
+    margin: 0 0 6rem 8.688rem;
+    font-family: LibreBaskerville;
+    font-size: 1.125rem;
+    font-weight: bold;
+    padding: 0rem 3rem 0rem 4rem;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    border-radius: 10px;
+    border: none;
+    background-color: #00dbd0;
+    color: #ffffff;
+ } 

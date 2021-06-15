@@ -1,0 +1,243 @@
+
+.footer{
+   display: flex;
+   background-color: #374b5c;
+}
+.maindivbox6{
+  display: block;
+  width: 31.604rem;
+  height: 15.415rem;
+  margin: 4.023rem 6.062rem 0 0;
+  padding: 0.131rem 1.979rem 5px 0px;
+  background-color: #374b5c;
+}
+
+
+.organic {
+  width: 6.812rem;
+  height: 2.563rem;
+  margin: 1rem 0rem 0rem 9rem;
+  font-family: LibreBaskerville;
+  font-size: 1.938rem;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.32;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+  }
+  .Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor {
+    width: 19.938rem;
+    height: 2.75rem;
+    margin: 1.968rem 0 2.02rem 4.468rem;
+    font-family: LibreBaskerville;
+    font-size: 0.875rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.79;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+
+  .-Copyright-2020-Nature {
+    width: 10.438rem;
+    height: 1.188rem;
+    margin: 0.668rem 9.5rem 3.176rem 4.468rem;
+    font-family: LibreBaskerville;
+    font-size: 0.875rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+.mainbox7{
+  display: flex;
+  width: 47.588rem;
+  height: 16.524rem;
+  margin: 3.157rem 0 0 4.787rem;
+  padding: 0.068rem 0 0 1.432rem;
+  background-color: #374b5c
+}
+
+
+.Information {
+  width: 5.688rem;
+  height: 1.313rem;
+  margin: 0 19.563rem 0.895rem 0.063rem;
+  font-family: LibreBaskerville;
+  font-size: 1rem;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.31;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+  display: flex;
+  }
+
+  
+  .firstcol{
+    margin: 1rem 0rem 0rem -5rem;
+    
+  }
+  .About-Us1 {
+    width: 3.625rem;
+    height: 1.188rem;
+    margin: 2rem 0.625rem 0.875rem 0.063rem;
+    font-family: LibreBaskerville;
+    font-size: 0.875rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    display: block;
+    text-decoration: none;
+  }
+  .Products1 {
+    width: 3.625rem;
+    height: 1.188rem;
+    margin: 1rem 0.625rem 0.875rem 0.063rem;
+    font-family: LibreBaskerville;
+    font-size: 0.875rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    display: block;
+    text-decoration: none;
+  }
+  .Contact-Us1 {
+    width:4.188rem;
+    height: 1.188rem;
+    margin: 1rem 0.625rem 0.875rem 0.063rem;
+    font-family: LibreBaskerville;
+    font-size: 0.875rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    display: block;
+    text-decoration: none;
+  }
+
+  .Terms-of-Service1 {
+    width: 6.25rem;
+    height: 1.188rem;
+    margin: 1rem 0.625rem 0.875rem 0.063rem;
+    font-family: LibreBaskerville;
+    font-size: 0.875rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    display: block;
+    text-decoration: none;
+  }
+  
+  .secondcol{
+    display: flexbox;
+    margin: 2rem 5rem 0rem 6rem;
+    
+  }
+  .About-Us2 {
+    width: 3.625rem;
+    height: 1.188rem;
+    margin: 1rem 0 1rem 0.563rem;
+    font-family: LibreBaskerville;
+    font-size: 0.875rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    display: block;
+    text-decoration: none;}
+  
+  
+  .Products2 {
+    width: 3.375rem;
+    height: 1.188rem;
+    margin: 0.875rem 0.25rem 0.125rem 0.563rem;
+    font-family: LibreBaskerville;
+    font-size: 0.875rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    display: block;
+    text-decoration: none;
+  } 
+
+
+
+  .Follow-Us {
+    width: 4.563rem;
+    height: 1.313rem;
+    margin: 0 0 0.895rem;
+    font-family: LibreBaskerville;
+    font-size: 1rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.31;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    
+  }
+  .handle{
+    display: flex;
+    margin: 4rem 0rem 0rem 0rem;
+  }
+  .facebook{
+    margin-right: 1rem;
+  }
+  .twitter{
+    margin-right: 1rem;
+  }
+  .linkedin{
+    margin-right: 1rem;
+  }
+  .instagram{
+    margin-right: 1rem;
+  }
